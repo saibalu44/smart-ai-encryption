@@ -1,0 +1,12 @@
+{
+  "name": "smart-ai-encryption-system",
+  "version": "1.0.0",
+  "description": "Smart Encryption System with AI-Based Key Rotation & Threat Detection",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["cryptography", "aes-256", "ai-security", "key-rotation", "threat-detection", "web-crypto"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
